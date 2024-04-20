@@ -12,10 +12,12 @@ This will create a customized cover letter:
 ### Install
 1. Install the system dependencies for pdftotext [see here](https://github.com/jalan/pdftotext)
 2. Install Python dependencies
+    
     pip install -r requirements.txt
 
 ### Getting started
 Start the local Streamlit server
+    
     streamlit run app.py
 
 1. Pick a PDF file with your resume. You can use resume-example.pdf
